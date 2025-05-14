@@ -16,7 +16,7 @@ print(a)
 #5
 a="Savithri"
 b=22
-print("My name is " + a + " and my age is " + b)
+print("My name is " + a + " and my age is " +str(b))
 #6
 Name="Savithri"
 Age=22
