@@ -41,12 +41,12 @@ a+=5
 a-=5
 a*=5
 a/=5
-print("Final ans",a)
+print("Final answer",a)
 #8
 a=50
 a+=5
 a-=10
-print("Final ans",a)
+print("Final answer",a)
 #9
 a=10
 b=20
