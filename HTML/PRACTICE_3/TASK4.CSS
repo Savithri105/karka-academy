@@ -1,0 +1,29 @@
+.ad{
+     width:800px;
+
+    height:600px;
+    margin:auto    
+}
+#ad1{display:flex;
+    justify-content:center;
+    align-items:center;}
+
+.ad2{display:flex;
+    justify-content:center;
+    align-items:center;
+      }
+
+
+#ad4{display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:110px
+}
+
+
+.adv{display:flex;
+flex-direction:row;
+align-items:center;
+justify-content:center;
+width:100%
+}

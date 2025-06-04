@@ -1,0 +1,35 @@
+.blog1{border:40px solid blueviolet;
+       width:1200px;
+         height:1400px;
+       margin:auto}
+
+.blog2{display:flex;
+       flex-direction:row}
+
+#blog21{width:1000px}
+
+#blog22{margin-Top:30px}
+#img{width:100%}
+
+.title{display:flex;
+       flex-direction:row}
+
+#title1{margin-top:40px;
+       margin-right: 50px;
+       margin-left: 50px;
+
+}
+
+.box{  
+       border:2px;
+       background-color: yellow;
+       height:120px;
+       margin-right:40px;
+       margin-top:20px
+      }
+
+#box1{background-color:red;
+      color:white;
+
+}
+#box2{color:black}
