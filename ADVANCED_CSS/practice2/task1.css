@@ -1,0 +1,113 @@
+.parent{
+         background-color: red;
+         position: relative;
+         width: 461px;
+         height:195px;
+         overflow:hidden
+}
+
+.child{
+    background-color: pink;
+    position: absolute; 
+    width: 137px;
+    height: 135px;
+    top:37px;
+    left:38px}
+
+.child1{
+    background-color: white;
+    position: absolute;
+    width:263px;
+    height:135px;
+    top:37px;
+    left:175px}
+
+.child2{
+     background-color: red;
+     transform: rotate(45deg);
+     width: 20px;
+     height: 20px;
+     top:24px;
+     right:1180px;
+     position: absolute;
+
+}
+
+.child3{
+background-color: red;
+transform: rotate(45deg);
+width: 20px;
+height: 20px;
+top:164px;
+right:1180px;
+position: absolute;
+
+}
+
+.child{display: flex;
+       flex-direction: row;
+    
+    
+    }
+#c1{
+width:22%;
+margin-left:12px;
+font-size:x-small;
+margin-top: 15px;
+color: white;
+}
+
+#c2{
+width: 58px;
+margin-left:5px;
+font-size: x-small;
+margin-top: 15px;
+color: white;
+}
+
+
+
+    
+.vertical{
+      background-color:white;
+      margin:8px;
+      border:none;
+      width:1px;
+      height:20px;
+      writing-mode: vertical-lr;
+      margin-top: 15px
+    }
+.digit{
+    font-size: 98px;
+    margin-left: -103px;
+    margin-block-start: 22px;
+    color:white;
+}
+
+.seat{
+    margin-left: 16px;
+    margin-block-start: 55px;
+    font-size: x-small;
+    
+}
+#c3{font-size:42px;
+    margin-left: 33px;
+    margin-top: 4px;
+}
+
+#hash{font-size: 30px;
+    margin-top:-90px;
+    text-indent: 214px;
+    color: red;
+}
+
+.row{display: flex;
+flex-direction: row;
+margin-top:48px;
+font-size:x-small;
+margin-left:38px;
+}
+
+#r1{margin-right: 10px;}
+
+#r2{margin-right: 10px;}
