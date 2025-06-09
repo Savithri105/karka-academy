@@ -1,0 +1,35 @@
+
+#g1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+#g2{display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+#g3{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#g4{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+#g5{
+display:flex;
+    justify-content:center;
+    align-items:center;
+    height:50px;
+    margin-left:20px;
+     margin-right:10px
+}
+#g6{ margin-left:20px;
+     margin-right:10px}
+
+#a1{text-align: center;}
