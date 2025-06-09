@@ -1,0 +1,33 @@
+.parent{
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;}
+
+.c4{
+    background-color: lightpink;
+    padding:10px;
+}
+
+.c1{
+    background-color:purple;
+    padding:10px;
+    color: white;
+}
+.parent1{display: flex;}
+
+.c2{
+    background-color:white;
+    padding:49px
+}
+.c3{
+    background-color:palevioletred;
+    padding:20px;
+
+}
+
+.c5{
+    background-color:pink;
+    padding:28px;
+    
+
+}
