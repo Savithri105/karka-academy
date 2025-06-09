@@ -1,0 +1,26 @@
+.parent1{
+    border: 2px solid black;
+    width: 200px;
+    text-align: center;}
+
+.parent{
+    background-color: lightpink;
+    padding:20px;
+}
+
+.c1{
+    background-color:purple;
+    padding: 5px;
+    color: white;
+}
+
+.c2{
+    background-color:white;
+    padding:50px
+}
+
+.c3{
+    background-color:palevioletred;
+    padding:20px;
+
+}

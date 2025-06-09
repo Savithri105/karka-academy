@@ -1,0 +1,65 @@
+.parent{background-color: white;
+width: 500px;
+position: relative;
+height: 200px;
+}
+
+
+
+.c1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    left:20px;
+    width:500px;
+    height:40px
+}
+.parent1{display: flex;}
+
+.c2{
+    background-color:grey;
+    position: absolute;
+    top:35px;
+    left:20px;
+    width:500px;
+    height:25px;
+    text-align: center;
+
+   }
+.c3{
+    background-color:palevioletred;
+    text-align: center;
+    position: absolute;
+    top: 80px;
+    left:55px;
+    width:300px;
+    height:535px;
+    line-height: 280px;
+    
+
+   
+
+}
+.c4{ 
+    background-color: brown;
+    position: absolute;
+    top:80px;
+    left:370px;
+    width: 120px;
+    height: 535px;
+    text-align: center;
+    line-height: 280px;
+}
+
+.c5{
+    background-color:pink;
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    left:29px;
+    width:500px;
+    height:40px
+    
+
+}
