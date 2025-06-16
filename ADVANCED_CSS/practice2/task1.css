@@ -27,9 +27,9 @@
      transform: rotate(45deg);
      width: 20px;
      height: 20px;
-     top:24px;
-     right:1180px;
-     position: absolute;
+     top:25px;
+     left:166px;
+     position:absolute;
 
 }
 
@@ -38,10 +38,9 @@ background-color: red;
 transform: rotate(45deg);
 width: 20px;
 height: 20px;
-top:164px;
-right:1180px;
+top:165px;
+left:166px;
 position: absolute;
-
 }
 
 .child{display: flex;
